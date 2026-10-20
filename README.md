@@ -6,7 +6,7 @@ Welcome to **AryanVerse**, my personal portfolio website showcasing my technical
 
 This portfolio reflects my passion for learning, problem-solving, and building practical technology solutions that can make a meaningful impact.
 
-🌐 **Live Portfolio:** [Visit AryanVerse](https://engineer9336.github.io/portfolio/)
+🌐 **Live Portfolio:https://engineer9336.github.io/Portfolio/
 
 ---
 
@@ -167,45 +167,6 @@ portfolio/
 *Note: The files listed above describe the intended portfolio structure. Keep only the files and folders that actually exist in your repository.*
 
 ---
-
-## 🚀 Run Locally
-
-To view or modify the portfolio locally:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Engineer9336/portfolio.git
-   ```
-
-2. Open the project folder:
-
-   ```bash
-   cd portfolio
-   ```
-
-3. Open `index.html` in your browser.
-
-For development, you can use the Live Server extension in Visual Studio Code.
-
----
-
-## 🌍 Deployment
-
-This portfolio is hosted using **GitHub Pages**.
-
-Live website: https://engineer9336.github.io/portfolio/
-
-To deploy your own changes:
-
-1. Commit your updated files to the `main` branch.
-2. Open the repository's **Settings → Pages**.
-3. Select **Deploy from a branch**.
-4. Choose `main` and `/(root)`.
-5. Save and wait for the deployment to complete.
-
----
-
 ## 🎯 Future Goals
 
 - Build more practical AI/ML applications.
@@ -219,15 +180,22 @@ To deploy your own changes:
 ## 📜 License
 
 This repository contains my personal portfolio and project showcase.
-
 Please contact me before reusing personal content, branding, or project assets.
-
 ---
+## 🛡️ Visitor Guidelines
 
-### ⭐ Thanks for Visiting!
+- Explore the portfolio and projects for educational and professional purposes.
+- AI/ML project results are not guaranteed to be accurate in every situation.
+- Do not share sensitive personal information through demo applications.
+- Do not attempt unauthorized access to the website or admin dashboard.
+- Please respect intellectual property rights and obtain permission before reusing content.
+- External links and services are managed by their respective owners.
+- Feedback, collaboration, and professional inquiries are always welcome.
 
-Thank you for exploring AryanVerse.
+### 🌌 Explore. Learn. Innovate.
+📧 **Contact:**Github
 
+Thank you for visiting **AryanVerse!** 🚀
 **Learning continuously. Building practically. Growing with technology.**
 
 Made with ❤️ by **Aryan Mishra**.
