@@ -6,7 +6,7 @@ Welcome to **AryanVerse**, my personal portfolio website showcasing my technical
 
 This portfolio reflects my passion for learning, problem-solving, and building practical technology solutions that can make a meaningful impact.
 
-🌐 **Live Portfolio: https://engineer9336.github.io/Portfolio/
+🌐 **Live Portfolio:https://engineer9336.github.io/Portfolio/
 
 ---
 
